@@ -3,7 +3,7 @@
 ## Goal
 
 The aim of this group project was to develop a short Python code to find the shortest path between two points on an implictly defined surface.
-Instead of using Dijkstra's algorithm, the original idea of the algorithm is to use differential calculus
+Instead of using Dijkstra's algorithm, the original idea of the algorithm is to use differential calculus in order to solve second order differential equations defined thanks to implictly defined surfaces.
 
 ## Results
 
